@@ -1,4 +1,4 @@
-# 'Stay Safe Online' Prevention Checklist
+# Stay Safe Online' Prevention Checklist
 
 1. **The Golden Rule of UPI:** Never enter your UPI PIN to receive money. A PIN is only required for sending or authorizing a debit, never for a credit.
 2. **Verify the Source:** Before scanning any QR code or clicking a payment link, verify the sender's VPA (Virtual Payment Address) to ensure it is a legitimate merchant.
